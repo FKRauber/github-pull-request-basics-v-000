@@ -90,4 +90,3 @@ commits will be added automatically.
 
 [pr]: https://github.com/ruby/ruby/pull/1051
 
-changes
